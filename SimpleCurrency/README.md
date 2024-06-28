@@ -21,15 +21,4 @@ The network layer is being created via the singleton pattern ensuring only one i
 
 Combine framework allows easier asynchronous data management and to update the UI when data is received via reactive programming.
 
-## Feedback
-
-This is a fun and simple challenge allowing for different ways to go about creating this project. One feedback i would have would be to elaborate a little more on the criteria assessed as it's currently more subjective
-
-An example would be listing out key areas you are looking out for.
-
--Testing
--Quality of code
--Error handling 
--Validation 
-etc
 
